@@ -1,0 +1,1 @@
+<?php echo "<div class='column'>"; ?><?php echo "<p>Archivo Subido: <input type='text' value='" . $datosArchivo['tipo_documento'] . "' readonly></p>"; ?>

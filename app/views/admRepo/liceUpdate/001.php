@@ -1,0 +1,1 @@
+<?php echo "ERROR EN LA CONSULTA" . mysqli_error($con); ?>

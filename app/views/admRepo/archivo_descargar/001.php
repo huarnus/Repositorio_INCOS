@@ -1,0 +1,1 @@
+<?php echo 'El archivo no existe en el servidor.'; ?>

@@ -1,0 +1,1 @@
+<?php echo '<script type="text/javascript">window.location.href="inicio.php?sw=1";</script>'; ?>

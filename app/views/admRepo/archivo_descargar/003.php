@@ -1,0 +1,1 @@
+<?php echo 'ID de archivo no válido.'; ?>

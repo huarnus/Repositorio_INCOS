@@ -1,0 +1,1 @@
+<?php echo '</li>'; ?><?php echo '</p>'; ?><?php echo '<li><strong>Autor:</strong> ' . $row['autor'] . '</li>'; ?>

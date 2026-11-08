@@ -1,0 +1,16 @@
+{
+  "php_files": 736,
+  "php_syntax_errors": 0,
+  "javascript_syntax": "correcta",
+  "unchanged_files": 5111,
+  "unchanged_stylesheets": 183,
+  "unchanged_pdfs": 59,
+  "existing_files_changed": [
+    "app/controllers/admRepo/index.php",
+    "app/controllers/admRepo/partir/arriba.php",
+    "app/controllers/partir/arriba.php",
+    "app/models/DatabaseModel.php",
+    "config/database.php"
+  ],
+  "browser": "no ejecutado: Chromium no disponible"
+}

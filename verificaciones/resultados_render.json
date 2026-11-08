@@ -1,0 +1,106 @@
+[
+  {
+    "route": "index.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 15189
+  },
+  {
+    "route": "Sistemas.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 19957
+  },
+  {
+    "route": "Contabilidad.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 19970
+  },
+  {
+    "route": "Secretariado.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 19970
+  },
+  {
+    "route": "ComercioInternacional.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 19973
+  },
+  {
+    "route": "carreras.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 18167
+  },
+  {
+    "route": "registroEstudiantes.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 16229
+  },
+  {
+    "route": "admRepo/index.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 3989
+  },
+  {
+    "route": "admRepo/carreraListar.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 17097
+  },
+  {
+    "route": "admRepo/carreraRegistrar.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 16483
+  },
+  {
+    "route": "admRepo/carreraEdit.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 16452
+  },
+  {
+    "route": "admRepo/modalidadListar.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 17125
+  },
+  {
+    "route": "admRepo/cargoLista.php",
+    "same_output": true,
+    "same_queries": true,
+    "original_exit": 0,
+    "mvc_exit": 0,
+    "bytes": 16975
+  }
+]

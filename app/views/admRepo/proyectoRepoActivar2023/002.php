@@ -1,0 +1,1 @@
+<?php echo json_encode(["success" => false, "message" => "Error al actualizar el estado en la base de datos."]); ?>

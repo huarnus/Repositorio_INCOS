@@ -1,0 +1,1 @@
+<?php echo "<form>"; ?><?php echo "<div class='proyecto-container'>"; ?><?php echo "<h2>Formulario De Registro </h2>"; ?>

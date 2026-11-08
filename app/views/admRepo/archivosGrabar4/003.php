@@ -1,0 +1,1 @@
+<?php echo "El archivo seleccionado no es un PDF válido."; ?>

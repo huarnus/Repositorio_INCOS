@@ -1,0 +1,1 @@
+<?php echo '<div class="col-lg-12">'; ?>

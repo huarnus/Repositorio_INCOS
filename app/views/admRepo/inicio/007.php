@@ -1,0 +1,1 @@
+<?php echo "<div class='estadistica'>No se encontraron resultados para Estudiantes.</div>"; ?>

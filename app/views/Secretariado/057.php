@@ -1,0 +1,1 @@
+<?php echo '<span class="details">Descripción: <span class="descripcion">' . $descripcion_corta . '</span> <em>.</em>'; ?>

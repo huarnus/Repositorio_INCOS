@@ -1,0 +1,1 @@
+<?php echo "No se encontraron archivos insta para el estudiante con nombr de usuari: "; ?>

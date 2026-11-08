@@ -1,0 +1,1 @@
+<?php echo "<h2>Título: $titulo</h2>"; ?><?php echo '<div class="row">'; ?>

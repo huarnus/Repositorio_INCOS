@@ -1,0 +1,1 @@
+<?php echo "<a href='#' class='page-link' onclick='cargarPagina($i)'>$i</a> "; ?>

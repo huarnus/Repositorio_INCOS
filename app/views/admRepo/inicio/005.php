@@ -1,0 +1,1 @@
+<?php echo "<div> $cantidadEstudiantes: $nombreCargo Registrados</div>"; ?>

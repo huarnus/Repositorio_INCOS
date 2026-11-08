@@ -1,0 +1,1 @@
+<?php echo "Error al actualizar la instancia: " . mysqli_error($con); ?>

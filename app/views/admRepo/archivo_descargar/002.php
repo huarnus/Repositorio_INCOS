@@ -1,0 +1,1 @@
+<?php echo 'Archivo no encontrado en la base de datos.'; ?>

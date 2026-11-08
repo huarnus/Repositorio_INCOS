@@ -1,0 +1,2 @@
+                ><?=$categoria['nombre']?></option>
+            

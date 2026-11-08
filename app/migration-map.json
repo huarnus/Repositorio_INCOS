@@ -1,0 +1,1405 @@
+[
+  {
+    "url": "ComercioInternacional.php",
+    "controller": "app/controllers/ComercioInternacional.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/ComercioInternacional/001.php",
+      "app/views/ComercioInternacional/002.php",
+      "app/views/ComercioInternacional/003.php",
+      "app/views/ComercioInternacional/023.php",
+      "app/views/ComercioInternacional/024.php",
+      "app/views/ComercioInternacional/025.php",
+      "app/views/ComercioInternacional/034.php",
+      "app/views/ComercioInternacional/035.php",
+      "app/views/ComercioInternacional/036.php",
+      "app/views/ComercioInternacional/057.php",
+      "app/views/ComercioInternacional/058.php",
+      "app/views/ComercioInternacional/059.php",
+      "app/views/ComercioInternacional/069.php",
+      "app/views/ComercioInternacional/070.php",
+      "app/views/ComercioInternacional/071.php",
+      "app/views/ComercioInternacional/091.php",
+      "app/views/ComercioInternacional/092.php",
+      "app/views/ComercioInternacional/093.php",
+      "app/views/ComercioInternacional/102.php",
+      "app/views/ComercioInternacional/103.php",
+      "app/views/ComercioInternacional/104.php",
+      "app/views/ComercioInternacional/125.php",
+      "app/views/ComercioInternacional/126.php",
+      "app/views/ComercioInternacional/127.php",
+      "app/views/ComercioInternacional/137.php",
+      "app/views/ComercioInternacional/138.php",
+      "app/views/ComercioInternacional/139.php",
+      "app/views/ComercioInternacional/159.php",
+      "app/views/ComercioInternacional/160.php",
+      "app/views/ComercioInternacional/161.php",
+      "app/views/ComercioInternacional/170.php",
+      "app/views/ComercioInternacional/171.php",
+      "app/views/ComercioInternacional/172.php",
+      "app/views/ComercioInternacional/193.php",
+      "app/views/ComercioInternacional/194.php",
+      "app/views/ComercioInternacional/195.php",
+      "app/views/ComercioInternacional/205.php",
+      "app/views/ComercioInternacional/206.php",
+      "app/views/ComercioInternacional/207.php",
+      "app/views/ComercioInternacional/227.php",
+      "app/views/ComercioInternacional/228.php",
+      "app/views/ComercioInternacional/229.php",
+      "app/views/ComercioInternacional/238.php",
+      "app/views/ComercioInternacional/239.php",
+      "app/views/ComercioInternacional/240.php",
+      "app/views/ComercioInternacional/261.php",
+      "app/views/ComercioInternacional/262.php",
+      "app/views/ComercioInternacional/263.php",
+      "app/views/ComercioInternacional/273.php",
+      "app/views/ComercioInternacional/274.php"
+    ],
+    "original_sha256": "35277e5200d6f223ebdbda08334197c7cdb1fe19292ba7bbaacfafd0667ce3a9"
+  },
+  {
+    "url": "Contabilidad.php",
+    "controller": "app/controllers/Contabilidad.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/Contabilidad/001.php",
+      "app/views/Contabilidad/002.php",
+      "app/views/Contabilidad/003.php",
+      "app/views/Contabilidad/023.php",
+      "app/views/Contabilidad/024.php",
+      "app/views/Contabilidad/025.php",
+      "app/views/Contabilidad/034.php",
+      "app/views/Contabilidad/035.php",
+      "app/views/Contabilidad/036.php",
+      "app/views/Contabilidad/057.php",
+      "app/views/Contabilidad/058.php",
+      "app/views/Contabilidad/059.php",
+      "app/views/Contabilidad/069.php",
+      "app/views/Contabilidad/070.php",
+      "app/views/Contabilidad/071.php",
+      "app/views/Contabilidad/091.php",
+      "app/views/Contabilidad/092.php",
+      "app/views/Contabilidad/093.php",
+      "app/views/Contabilidad/102.php",
+      "app/views/Contabilidad/103.php",
+      "app/views/Contabilidad/104.php",
+      "app/views/Contabilidad/125.php",
+      "app/views/Contabilidad/126.php",
+      "app/views/Contabilidad/127.php",
+      "app/views/Contabilidad/137.php",
+      "app/views/Contabilidad/138.php",
+      "app/views/Contabilidad/139.php",
+      "app/views/Contabilidad/159.php",
+      "app/views/Contabilidad/160.php",
+      "app/views/Contabilidad/161.php",
+      "app/views/Contabilidad/170.php",
+      "app/views/Contabilidad/171.php",
+      "app/views/Contabilidad/172.php",
+      "app/views/Contabilidad/193.php",
+      "app/views/Contabilidad/194.php",
+      "app/views/Contabilidad/195.php",
+      "app/views/Contabilidad/205.php",
+      "app/views/Contabilidad/206.php",
+      "app/views/Contabilidad/207.php",
+      "app/views/Contabilidad/227.php",
+      "app/views/Contabilidad/228.php",
+      "app/views/Contabilidad/229.php",
+      "app/views/Contabilidad/238.php",
+      "app/views/Contabilidad/239.php",
+      "app/views/Contabilidad/240.php",
+      "app/views/Contabilidad/261.php",
+      "app/views/Contabilidad/262.php",
+      "app/views/Contabilidad/263.php",
+      "app/views/Contabilidad/273.php",
+      "app/views/Contabilidad/274.php"
+    ],
+    "original_sha256": "c2a07bb65d3673fc667259610af5fa7dbd616bbd828352c279723135b34d66a2"
+  },
+  {
+    "url": "Secretariado.php",
+    "controller": "app/controllers/Secretariado.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/Secretariado/001.php",
+      "app/views/Secretariado/002.php",
+      "app/views/Secretariado/003.php",
+      "app/views/Secretariado/023.php",
+      "app/views/Secretariado/024.php",
+      "app/views/Secretariado/025.php",
+      "app/views/Secretariado/034.php",
+      "app/views/Secretariado/035.php",
+      "app/views/Secretariado/036.php",
+      "app/views/Secretariado/057.php",
+      "app/views/Secretariado/058.php",
+      "app/views/Secretariado/059.php",
+      "app/views/Secretariado/069.php",
+      "app/views/Secretariado/070.php",
+      "app/views/Secretariado/071.php",
+      "app/views/Secretariado/091.php",
+      "app/views/Secretariado/092.php",
+      "app/views/Secretariado/093.php",
+      "app/views/Secretariado/102.php",
+      "app/views/Secretariado/103.php",
+      "app/views/Secretariado/104.php",
+      "app/views/Secretariado/125.php",
+      "app/views/Secretariado/126.php",
+      "app/views/Secretariado/127.php",
+      "app/views/Secretariado/137.php",
+      "app/views/Secretariado/138.php",
+      "app/views/Secretariado/139.php",
+      "app/views/Secretariado/159.php",
+      "app/views/Secretariado/160.php",
+      "app/views/Secretariado/161.php",
+      "app/views/Secretariado/170.php",
+      "app/views/Secretariado/171.php",
+      "app/views/Secretariado/172.php",
+      "app/views/Secretariado/193.php",
+      "app/views/Secretariado/194.php",
+      "app/views/Secretariado/195.php",
+      "app/views/Secretariado/205.php",
+      "app/views/Secretariado/206.php",
+      "app/views/Secretariado/207.php",
+      "app/views/Secretariado/227.php",
+      "app/views/Secretariado/228.php",
+      "app/views/Secretariado/229.php",
+      "app/views/Secretariado/238.php",
+      "app/views/Secretariado/239.php",
+      "app/views/Secretariado/240.php",
+      "app/views/Secretariado/261.php",
+      "app/views/Secretariado/262.php",
+      "app/views/Secretariado/263.php",
+      "app/views/Secretariado/273.php",
+      "app/views/Secretariado/274.php"
+    ],
+    "original_sha256": "06948ca7b2e27ef31d3459bccac8301c2c4fd1038ad13b299537d266d76364e2"
+  },
+  {
+    "url": "Sistemas.php",
+    "controller": "app/controllers/Sistemas.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/Sistemas/001.php",
+      "app/views/Sistemas/002.php",
+      "app/views/Sistemas/022.php",
+      "app/views/Sistemas/023.php",
+      "app/views/Sistemas/024.php",
+      "app/views/Sistemas/033.php",
+      "app/views/Sistemas/034.php",
+      "app/views/Sistemas/035.php",
+      "app/views/Sistemas/056.php",
+      "app/views/Sistemas/057.php",
+      "app/views/Sistemas/058.php",
+      "app/views/Sistemas/068.php",
+      "app/views/Sistemas/069.php",
+      "app/views/Sistemas/070.php",
+      "app/views/Sistemas/090.php",
+      "app/views/Sistemas/091.php",
+      "app/views/Sistemas/092.php",
+      "app/views/Sistemas/101.php",
+      "app/views/Sistemas/102.php",
+      "app/views/Sistemas/103.php",
+      "app/views/Sistemas/124.php",
+      "app/views/Sistemas/125.php",
+      "app/views/Sistemas/126.php",
+      "app/views/Sistemas/136.php",
+      "app/views/Sistemas/137.php",
+      "app/views/Sistemas/138.php",
+      "app/views/Sistemas/158.php",
+      "app/views/Sistemas/159.php",
+      "app/views/Sistemas/160.php",
+      "app/views/Sistemas/169.php",
+      "app/views/Sistemas/170.php",
+      "app/views/Sistemas/171.php",
+      "app/views/Sistemas/192.php",
+      "app/views/Sistemas/193.php",
+      "app/views/Sistemas/194.php",
+      "app/views/Sistemas/204.php",
+      "app/views/Sistemas/205.php",
+      "app/views/Sistemas/206.php",
+      "app/views/Sistemas/226.php",
+      "app/views/Sistemas/227.php",
+      "app/views/Sistemas/228.php",
+      "app/views/Sistemas/237.php",
+      "app/views/Sistemas/238.php",
+      "app/views/Sistemas/239.php",
+      "app/views/Sistemas/260.php",
+      "app/views/Sistemas/261.php",
+      "app/views/Sistemas/262.php",
+      "app/views/Sistemas/272.php",
+      "app/views/Sistemas/273.php"
+    ],
+    "original_sha256": "5c5aa1599f5c94e6159c99227e19528882365e75ba47716f12097ba929bba6c3"
+  },
+  {
+    "url": "admRepo/admEditar.php",
+    "controller": "app/controllers/admRepo/admEditar.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/admEditar/001.php",
+      "app/views/admRepo/admEditar/004.php",
+      "app/views/admRepo/admEditar/007.php",
+      "app/views/admRepo/admEditar/008.php",
+      "app/views/admRepo/admEditar/011.php"
+    ],
+    "original_sha256": "167790707b6139ac36cce2f22b4759a02552bd8d282bb8120aff257015b89b57"
+  },
+  {
+    "url": "admRepo/admEliminar.php",
+    "controller": "app/controllers/admRepo/admEliminar.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/admEliminar/001.php"
+    ],
+    "original_sha256": "7bc2c02840a1c29cc00e46c5fc5208dcda300d750a86a338191b5515b042a164"
+  },
+  {
+    "url": "admRepo/admGrabar.php",
+    "controller": "app/controllers/admRepo/admGrabar.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/admGrabar/001.php"
+    ],
+    "original_sha256": "565c7a9cdd2036018bfe49a43a4a373ec3ca309480d61ad3ba7d13ac26eb4564"
+  },
+  {
+    "url": "admRepo/admLista.php",
+    "controller": "app/controllers/admRepo/admLista.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/admLista/001.php",
+      "app/views/admRepo/admLista/002.php",
+      "app/views/admRepo/admLista/021.php"
+    ],
+    "original_sha256": "0a5913770b5ad1ff83478e35a545202f3cbe195a4bd79df3ba6bd0fc5be7805b"
+  },
+  {
+    "url": "admRepo/admRegistrar.php",
+    "controller": "app/controllers/admRepo/admRegistrar.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/admRegistrar/001.php",
+      "app/views/admRepo/admRegistrar/002.php",
+      "app/views/admRepo/admRegistrar/007.php",
+      "app/views/admRepo/admRegistrar/008.php",
+      "app/views/admRepo/admRegistrar/013.php",
+      "app/views/admRepo/admRegistrar/014.php"
+    ],
+    "original_sha256": "314002fc822aed73a54aabf5e698583bf837574fffecdc41dbc512efc32914fd"
+  },
+  {
+    "url": "admRepo/archivo_descargar.php",
+    "controller": "app/controllers/admRepo/archivo_descargar.php",
+    "model": "ArchivoModel",
+    "views": [
+      "app/views/admRepo/archivo_descargar/001.php",
+      "app/views/admRepo/archivo_descargar/002.php",
+      "app/views/admRepo/archivo_descargar/003.php"
+    ],
+    "original_sha256": "ee1faa97884836534e561e7a4c7062e0fb772013a1b4124cf5f999e24950a735"
+  },
+  {
+    "url": "admRepo/archivo_estudiante.php",
+    "controller": "app/controllers/admRepo/archivo_estudiante.php",
+    "model": "ArchivoModel",
+    "views": [
+      "app/views/admRepo/archivo_estudiante/001.php",
+      "app/views/admRepo/archivo_estudiante/002.php",
+      "app/views/admRepo/archivo_estudiante/004.php",
+      "app/views/admRepo/archivo_estudiante/011.php",
+      "app/views/admRepo/archivo_estudiante/012.php",
+      "app/views/admRepo/archivo_estudiante/013.php"
+    ],
+    "original_sha256": "ca7ce1ce63ae5342217224323b1a0c24263900a9f755f693eeb681d2fd8a05d3"
+  },
+  {
+    "url": "admRepo/archivosGrabar.php",
+    "controller": "app/controllers/admRepo/archivosGrabar.php",
+    "model": "ArchivoModel",
+    "views": [
+      "app/views/admRepo/archivosGrabar/001.php",
+      "app/views/admRepo/archivosGrabar/002.php",
+      "app/views/admRepo/archivosGrabar/003.php",
+      "app/views/admRepo/archivosGrabar/004.php",
+      "app/views/admRepo/archivosGrabar/005.php"
+    ],
+    "original_sha256": "d10952392b6e9c7a71d25883dc8eaf059ec07975c081e3acdbed02ffc7e83d31"
+  },
+  {
+    "url": "admRepo/archivosGrabar4.php",
+    "controller": "app/controllers/admRepo/archivosGrabar4.php",
+    "model": "ArchivoModel",
+    "views": [
+      "app/views/admRepo/archivosGrabar4/001.php",
+      "app/views/admRepo/archivosGrabar4/002.php",
+      "app/views/admRepo/archivosGrabar4/003.php",
+      "app/views/admRepo/archivosGrabar4/004.php"
+    ],
+    "original_sha256": "cdc4f16a458883b02bdcafdda99834583506ab81599b59dfd5f0a4c2b6ba9f62"
+  },
+  {
+    "url": "admRepo/archivosLista.php",
+    "controller": "app/controllers/admRepo/archivosLista.php",
+    "model": "ArchivoModel",
+    "views": [
+      "app/views/admRepo/archivosLista/001.php",
+      "app/views/admRepo/archivosLista/002.php",
+      "app/views/admRepo/archivosLista/003.php",
+      "app/views/admRepo/archivosLista/010.php"
+    ],
+    "original_sha256": "15b074d71321ebb7991a09bce74f9d34aed41b52acbe83f132a9e97e432e6e57"
+  },
+  {
+    "url": "admRepo/archivosRegistrar.php",
+    "controller": "app/controllers/admRepo/archivosRegistrar.php",
+    "model": "ArchivoModel",
+    "views": [
+      "app/views/admRepo/archivosRegistrar/001.php",
+      "app/views/admRepo/archivosRegistrar/002.php",
+      "app/views/admRepo/archivosRegistrar/003.php",
+      "app/views/admRepo/archivosRegistrar/004.php",
+      "app/views/admRepo/archivosRegistrar/007.php",
+      "app/views/admRepo/archivosRegistrar/008.php"
+    ],
+    "original_sha256": "544c9e071431ed9f2593808be3cce2baf2497d1f4d08c6bcb4af4606a80c0efe"
+  },
+  {
+    "url": "admRepo/cargoActualizar.php",
+    "controller": "app/controllers/admRepo/cargoActualizar.php",
+    "model": "CargoModel",
+    "views": [
+      "app/views/admRepo/cargoActualizar/001.php",
+      "app/views/admRepo/cargoActualizar/002.php"
+    ],
+    "original_sha256": "4b9727de573fb007726c1db4e958e72692f3dc71cd3e63cc989741969a58822d"
+  },
+  {
+    "url": "admRepo/cargoEliminar.php",
+    "controller": "app/controllers/admRepo/cargoEliminar.php",
+    "model": "CargoModel",
+    "views": [
+      "app/views/admRepo/cargoEliminar/001.php"
+    ],
+    "original_sha256": "1b317d360e00257852ea01568f85a8f1882b9126b730a1ce38c30103d84ab721"
+  },
+  {
+    "url": "admRepo/cargoGrabar.php",
+    "controller": "app/controllers/admRepo/cargoGrabar.php",
+    "model": "CargoModel",
+    "views": [],
+    "original_sha256": "d2d46e91a01a2633515831bf97671f40e2806dec09c50d07ed68b8724cab13a1"
+  },
+  {
+    "url": "admRepo/cargoLista.php",
+    "controller": "app/controllers/admRepo/cargoLista.php",
+    "model": "CargoModel",
+    "views": [
+      "app/views/admRepo/cargoLista/001.php",
+      "app/views/admRepo/cargoLista/002.php",
+      "app/views/admRepo/cargoLista/009.php"
+    ],
+    "original_sha256": "96f2daadbeefcff73b38fda75cc08ce17999b341b8f7d1f5d120b5832249bfd0"
+  },
+  {
+    "url": "admRepo/cargoModificar.php",
+    "controller": "app/controllers/admRepo/cargoModificar.php",
+    "model": "CargoModel",
+    "views": [
+      "app/views/admRepo/cargoModificar/001.php",
+      "app/views/admRepo/cargoModificar/006.php"
+    ],
+    "original_sha256": "cb213f919191d040d79dadc08dcd8e3e96434dfb0dde679fb33d80664dcf3fb0"
+  },
+  {
+    "url": "admRepo/cargoRegistrar.php",
+    "controller": "app/controllers/admRepo/cargoRegistrar.php",
+    "model": "CargoModel",
+    "views": [
+      "app/views/admRepo/cargoRegistrar/001.php"
+    ],
+    "original_sha256": "e8089e93574075b126e4fb3f674f8c5059e77b0f3d6cf87da25b8b4dbdade019"
+  },
+  {
+    "url": "admRepo/cargoTipoEstudiante.php",
+    "controller": "app/controllers/admRepo/cargoTipoEstudiante.php",
+    "model": "CargoModel",
+    "views": [
+      "app/views/admRepo/cargoTipoEstudiante/001.php",
+      "app/views/admRepo/cargoTipoEstudiante/002.php",
+      "app/views/admRepo/cargoTipoEstudiante/009.php"
+    ],
+    "original_sha256": "df8e0c520fb43ca9d9cdb716b170093751c11aabadabd0446061a17421b0f733"
+  },
+  {
+    "url": "admRepo/carreraActualizar.php",
+    "controller": "app/controllers/admRepo/carreraActualizar.php",
+    "model": "CarreraModel",
+    "views": [],
+    "original_sha256": "d220caa23b658883b28b37791313cd6c781d3f4e74893a8da6a2cf764009e95e"
+  },
+  {
+    "url": "admRepo/carreraEdit.php",
+    "controller": "app/controllers/admRepo/carreraEdit.php",
+    "model": "CarreraModel",
+    "views": [
+      "app/views/admRepo/carreraEdit/001.php"
+    ],
+    "original_sha256": "0fd29f65773d66356adcd8a111db74e9f7625536818c45a7a62457783f1623cb"
+  },
+  {
+    "url": "admRepo/carreraEliminar.php",
+    "controller": "app/controllers/admRepo/carreraEliminar.php",
+    "model": "CarreraModel",
+    "views": [],
+    "original_sha256": "df94566e527f4e0ecfec0b8a7cd16980bde33ec097c7d8db25b4fc9ed02de6eb"
+  },
+  {
+    "url": "admRepo/carreraGrabar.php",
+    "controller": "app/controllers/admRepo/carreraGrabar.php",
+    "model": "CarreraModel",
+    "views": [],
+    "original_sha256": "d87356cfbd871771cb289a5a3e8c93fddbe4d4df5f531b2694f1fdd21d0574ec"
+  },
+  {
+    "url": "admRepo/carreraListar.php",
+    "controller": "app/controllers/admRepo/carreraListar.php",
+    "model": "CarreraModel",
+    "views": [
+      "app/views/admRepo/carreraListar/001.php",
+      "app/views/admRepo/carreraListar/002.php",
+      "app/views/admRepo/carreraListar/011.php",
+      "app/views/admRepo/carreraListar/012.php"
+    ],
+    "original_sha256": "9243491353c57405c8932b9433973a8e67a57a02b8ecb3d80b20638598bad758"
+  },
+  {
+    "url": "admRepo/carreraRegistrar.php",
+    "controller": "app/controllers/admRepo/carreraRegistrar.php",
+    "model": "CarreraModel",
+    "views": [
+      "app/views/admRepo/carreraRegistrar/001.php"
+    ],
+    "original_sha256": "3e122988e50d57294819745afee6f2453a75f5b735b9eebca84d1590cf8ef9e3"
+  },
+  {
+    "url": "admRepo/eliminarEmpleado.php",
+    "controller": "app/controllers/admRepo/eliminarEmpleado.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/eliminarEmpleado/001.php"
+    ],
+    "original_sha256": "a6cced120f9c38a7de49b4ae6387abf36c58ceff8e0097315c9db391c51f9c6b"
+  },
+  {
+    "url": "admRepo/estudiantesActualizar.php",
+    "controller": "app/controllers/admRepo/estudiantesActualizar.php",
+    "model": "EstudianteModel",
+    "views": [
+      "app/views/admRepo/estudiantesActualizar/001.php",
+      "app/views/admRepo/estudiantesActualizar/002.php"
+    ],
+    "original_sha256": "b0c1408cdee6469af2a22608c8fd627ca0762b961ab875d2fc93c6a80d2929d2"
+  },
+  {
+    "url": "admRepo/estudiantesEliminar.php",
+    "controller": "app/controllers/admRepo/estudiantesEliminar.php",
+    "model": "EstudianteModel",
+    "views": [
+      "app/views/admRepo/estudiantesEliminar/001.php"
+    ],
+    "original_sha256": "7102148c716426fb1d2f58af2de2775ccb79530f992bdfa53c3c670c0883997c"
+  },
+  {
+    "url": "admRepo/estudiantesEliminar2.php",
+    "controller": "app/controllers/admRepo/estudiantesEliminar2.php",
+    "model": "EstudianteModel",
+    "views": [
+      "app/views/admRepo/estudiantesEliminar2/001.php"
+    ],
+    "original_sha256": "99019e8d1c411b4cf69635059f9d7021ca6545dd4881ae807d161255efda9c35"
+  },
+  {
+    "url": "admRepo/estudiantesListaActivos.php",
+    "controller": "app/controllers/admRepo/estudiantesListaActivos.php",
+    "model": "EstudianteModel",
+    "views": [
+      "app/views/admRepo/estudiantesListaActivos/001.php",
+      "app/views/admRepo/estudiantesListaActivos/002.php",
+      "app/views/admRepo/estudiantesListaActivos/025.php",
+      "app/views/admRepo/estudiantesListaActivos/026.php"
+    ],
+    "original_sha256": "24ec28930af0e18cd9f7bdf32e076f2fcc0767940e4c848e959fb1f55a8b9ef5"
+  },
+  {
+    "url": "admRepo/estudiantesdesactivar copy.php",
+    "controller": "app/controllers/admRepo/estudiantesdesactivar copy.php",
+    "model": "EstudianteModel",
+    "views": [
+      "app/views/admRepo/estudiantesdesactivar copy/001.php"
+    ],
+    "original_sha256": "45973149f74f43a2d09f589677e82f06e0a7febbacd5f633c59c055597422979"
+  },
+  {
+    "url": "admRepo/estudiantesdesactivar.php",
+    "controller": "app/controllers/admRepo/estudiantesdesactivar.php",
+    "model": "EstudianteModel",
+    "views": [
+      "app/views/admRepo/estudiantesdesactivar/001.php"
+    ],
+    "original_sha256": "45973149f74f43a2d09f589677e82f06e0a7febbacd5f633c59c055597422979"
+  },
+  {
+    "url": "admRepo/estudiantesgrabar copy.php",
+    "controller": "app/controllers/admRepo/estudiantesgrabar copy.php",
+    "model": "EstudianteModel",
+    "views": [
+      "app/views/admRepo/estudiantesgrabar copy/001.php"
+    ],
+    "original_sha256": "f0db23ea5ec7f7c8ef78f3221152a82fa7726452e49005f56f41af87dd05c246"
+  },
+  {
+    "url": "admRepo/estudiantesgrabar.php",
+    "controller": "app/controllers/admRepo/estudiantesgrabar.php",
+    "model": "EstudianteModel",
+    "views": [
+      "app/views/admRepo/estudiantesgrabar/001.php"
+    ],
+    "original_sha256": "a3d861b15b242fc11417a9ea62ba2b74144f50def1dd822b2b2f93aea41d3912"
+  },
+  {
+    "url": "admRepo/estudiantesmodificar.php",
+    "controller": "app/controllers/admRepo/estudiantesmodificar.php",
+    "model": "EstudianteModel",
+    "views": [
+      "app/views/admRepo/estudiantesmodificar/001.php"
+    ],
+    "original_sha256": "0af14634215a4467d66d41aa8ada024caa7c8bfd083d4451f9f61d207b964b60"
+  },
+  {
+    "url": "admRepo/historialEnvio.php",
+    "controller": "app/controllers/admRepo/historialEnvio.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/historialEnvio/001.php",
+      "app/views/admRepo/historialEnvio/006.php",
+      "app/views/admRepo/historialEnvio/013.php",
+      "app/views/admRepo/historialEnvio/016.php",
+      "app/views/admRepo/historialEnvio/033.php"
+    ],
+    "original_sha256": "e5eab1d0970c5ff54190ea452e616f205e61c0df313b0330270e0edc79f71c1a"
+  },
+  {
+    "url": "admRepo/index.php",
+    "controller": "app/controllers/admRepo/index.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/index/001.php",
+      "app/views/admRepo/index/002.php",
+      "app/views/admRepo/index/003.php",
+      "app/views/admRepo/index/004.php",
+      "app/views/admRepo/index/005.php",
+      "app/views/admRepo/index/006.php",
+      "app/views/admRepo/index/007.php",
+      "app/views/admRepo/index/008.php",
+      "app/views/admRepo/index/013.php",
+      "app/views/admRepo/index/014.php"
+    ],
+    "original_sha256": "ed4c074f8921649d5723d7dd5e71e43f9a29831655d5dbae167c0a6395fd0b48"
+  },
+  {
+    "url": "admRepo/inicio.php",
+    "controller": "app/controllers/admRepo/inicio.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/inicio/001.php",
+      "app/views/admRepo/inicio/002.php",
+      "app/views/admRepo/inicio/004.php",
+      "app/views/admRepo/inicio/005.php",
+      "app/views/admRepo/inicio/006.php",
+      "app/views/admRepo/inicio/007.php",
+      "app/views/admRepo/inicio/008.php",
+      "app/views/admRepo/inicio/009.php",
+      "app/views/admRepo/inicio/010.php",
+      "app/views/admRepo/inicio/011.php",
+      "app/views/admRepo/inicio/012.php",
+      "app/views/admRepo/inicio/015.php",
+      "app/views/admRepo/inicio/020.php",
+      "app/views/admRepo/inicio/021.php",
+      "app/views/admRepo/inicio/030.php",
+      "app/views/admRepo/inicio/031.php",
+      "app/views/admRepo/inicio/036.php",
+      "app/views/admRepo/inicio/037.php",
+      "app/views/admRepo/inicio/038.php",
+      "app/views/admRepo/inicio/039.php",
+      "app/views/admRepo/inicio/042.php",
+      "app/views/admRepo/inicio/048.php",
+      "app/views/admRepo/inicio/073.php",
+      "app/views/admRepo/inicio/075.php",
+      "app/views/admRepo/inicio/076.php",
+      "app/views/admRepo/inicio/080.php",
+      "app/views/admRepo/inicio/081.php",
+      "app/views/admRepo/inicio/083.php",
+      "app/views/admRepo/inicio/084.php",
+      "app/views/admRepo/inicio/085.php",
+      "app/views/admRepo/inicio/086.php",
+      "app/views/admRepo/inicio/087.php",
+      "app/views/admRepo/inicio/088.php",
+      "app/views/admRepo/inicio/089.php",
+      "app/views/admRepo/inicio/090.php"
+    ],
+    "original_sha256": "c34325c65dfccd61fadd0c8937169bcceae64658cc8354e7adee0aa6586d6825"
+  },
+  {
+    "url": "admRepo/liceCarga.php",
+    "controller": "app/controllers/admRepo/liceCarga.php",
+    "model": "TutorModel",
+    "views": [
+      "app/views/admRepo/liceCarga/001.php",
+      "app/views/admRepo/liceCarga/002.php",
+      "app/views/admRepo/liceCarga/011.php"
+    ],
+    "original_sha256": "d6cf21e62621b0bfe6ea9333ebe17b200f7da90a0790fd51c4f6a0d11878e47f"
+  },
+  {
+    "url": "admRepo/liceEditar.php",
+    "controller": "app/controllers/admRepo/liceEditar.php",
+    "model": "TutorModel",
+    "views": [
+      "app/views/admRepo/liceEditar/001.php",
+      "app/views/admRepo/liceEditar/004.php",
+      "app/views/admRepo/liceEditar/007.php",
+      "app/views/admRepo/liceEditar/008.php",
+      "app/views/admRepo/liceEditar/011.php"
+    ],
+    "original_sha256": "8e56ce143e228f8eae70b33be5e3f62e759f4852059bb01208fdd13149c13f7c"
+  },
+  {
+    "url": "admRepo/liceEliminar.php",
+    "controller": "app/controllers/admRepo/liceEliminar.php",
+    "model": "TutorModel",
+    "views": [
+      "app/views/admRepo/liceEliminar/001.php"
+    ],
+    "original_sha256": "e55099b4abe630e3884afea2ec58ec593e37a3475b3426fd38f941c6ba5fa168"
+  },
+  {
+    "url": "admRepo/liceGrabar.php",
+    "controller": "app/controllers/admRepo/liceGrabar.php",
+    "model": "TutorModel",
+    "views": [],
+    "original_sha256": "aa138a0462779ef7b57dc278865c312f3515f6ed45e58e2624f24bd1d9959950"
+  },
+  {
+    "url": "admRepo/liceLista.php",
+    "controller": "app/controllers/admRepo/liceLista.php",
+    "model": "TutorModel",
+    "views": [
+      "app/views/admRepo/liceLista/001.php",
+      "app/views/admRepo/liceLista/002.php",
+      "app/views/admRepo/liceLista/003.php",
+      "app/views/admRepo/liceLista/004.php",
+      "app/views/admRepo/liceLista/005.php",
+      "app/views/admRepo/liceLista/006.php",
+      "app/views/admRepo/liceLista/007.php",
+      "app/views/admRepo/liceLista/008.php",
+      "app/views/admRepo/liceLista/009.php",
+      "app/views/admRepo/liceLista/018.php",
+      "app/views/admRepo/liceLista/019.php",
+      "app/views/admRepo/liceLista/020.php"
+    ],
+    "original_sha256": "379fa5920ed15cdbe703ca1b8dda594c018a5dead0af0b9a734f90cd1b1540a7"
+  },
+  {
+    "url": "admRepo/liceUpdate.php",
+    "controller": "app/controllers/admRepo/liceUpdate.php",
+    "model": "TutorModel",
+    "views": [
+      "app/views/admRepo/liceUpdate/001.php"
+    ],
+    "original_sha256": "b8907bb529835a5951b8f3d9bda27dc2fe652fd49e738713373d2be621a3dcdc"
+  },
+  {
+    "url": "admRepo/licenciadosRegistrar.php",
+    "controller": "app/controllers/admRepo/licenciadosRegistrar.php",
+    "model": "TutorModel",
+    "views": [
+      "app/views/admRepo/licenciadosRegistrar/001.php",
+      "app/views/admRepo/licenciadosRegistrar/002.php",
+      "app/views/admRepo/licenciadosRegistrar/007.php"
+    ],
+    "original_sha256": "3b3caf2f116af62287c72a83a83e10a02bf3685392f62e0864cac2b0f94b6daa"
+  },
+  {
+    "url": "admRepo/login.php",
+    "controller": "app/controllers/admRepo/login.php",
+    "model": "GestionModel",
+    "views": [],
+    "original_sha256": "c484776748fd2144abc54e8ccc951531da3aac16a056a899fafe9fa7e6cbe702"
+  },
+  {
+    "url": "admRepo/modalidadActualizar.php",
+    "controller": "app/controllers/admRepo/modalidadActualizar.php",
+    "model": "ModalidadModel",
+    "views": [
+      "app/views/admRepo/modalidadActualizar/001.php"
+    ],
+    "original_sha256": "02ffff53f40c3b26d95ab5627b1c59ccaf586c1f0e307ca1993f537d452f7e2b"
+  },
+  {
+    "url": "admRepo/modalidadEdit.php",
+    "controller": "app/controllers/admRepo/modalidadEdit.php",
+    "model": "ModalidadModel",
+    "views": [
+      "app/views/admRepo/modalidadEdit/001.php"
+    ],
+    "original_sha256": "31aef3832f7000b3373309381e4fa5eeceba535c7bf0ee91a8ddce269ed9eae3"
+  },
+  {
+    "url": "admRepo/modalidadEliminar.php",
+    "controller": "app/controllers/admRepo/modalidadEliminar.php",
+    "model": "ModalidadModel",
+    "views": [
+      "app/views/admRepo/modalidadEliminar/001.php"
+    ],
+    "original_sha256": "02c1ed29851f2130bfdce4f14634175cd0e840f8bfa21bd66331cf22931e55f5"
+  },
+  {
+    "url": "admRepo/modalidadGrabar.php",
+    "controller": "app/controllers/admRepo/modalidadGrabar.php",
+    "model": "ModalidadModel",
+    "views": [
+      "app/views/admRepo/modalidadGrabar/001.php"
+    ],
+    "original_sha256": "8c61605933993c01858042e6e3583d41b894c3e78f773afbdef014294682f450"
+  },
+  {
+    "url": "admRepo/modalidadListar.php",
+    "controller": "app/controllers/admRepo/modalidadListar.php",
+    "model": "ModalidadModel",
+    "views": [
+      "app/views/admRepo/modalidadListar/001.php",
+      "app/views/admRepo/modalidadListar/002.php",
+      "app/views/admRepo/modalidadListar/011.php",
+      "app/views/admRepo/modalidadListar/012.php"
+    ],
+    "original_sha256": "cbdccf357175100c0dddb3cab25e6dfeebe1a11b72b40eb3e456b03b7e16a7c7"
+  },
+  {
+    "url": "admRepo/modalidadRegistrar.php",
+    "controller": "app/controllers/admRepo/modalidadRegistrar.php",
+    "model": "ModalidadModel",
+    "views": [
+      "app/views/admRepo/modalidadRegistrar/001.php",
+      "app/views/admRepo/modalidadRegistrar/002.php"
+    ],
+    "original_sha256": "08018ec897610b4bff7b5e9f90936a3fa26a2923c92b01829d60c586b33826ba"
+  },
+  {
+    "url": "admRepo/modificarEmpleado.php",
+    "controller": "app/controllers/admRepo/modificarEmpleado.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/modificarEmpleado/001.php",
+      "app/views/admRepo/modificarEmpleado/022.php",
+      "app/views/admRepo/modificarEmpleado/023.php",
+      "app/views/admRepo/modificarEmpleado/024.php",
+      "app/views/admRepo/modificarEmpleado/025.php"
+    ],
+    "original_sha256": "aa0fbf2017348f7f0bfd9f584ce9afb7ec5967ed1dae02780759cdc50f21e905"
+  },
+  {
+    "url": "admRepo/partir/abajo.php",
+    "controller": "app/controllers/admRepo/partir/abajo.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/partir/abajo/001.php"
+    ],
+    "original_sha256": "a63246de1a97056fba5d7d37e89de656b80d625d3fc087201625b58045735c2e"
+  },
+  {
+    "url": "admRepo/partir/aribaLogin.php",
+    "controller": "app/controllers/admRepo/partir/aribaLogin.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/partir/aribaLogin/001.php"
+    ],
+    "original_sha256": "5d8d6bd19640ffe0e4b37ce16f4bb36bcc336717e495bb628e696267deb47fae"
+  },
+  {
+    "url": "admRepo/partir/arriba.php",
+    "controller": "app/controllers/admRepo/partir/arriba.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/partir/arriba/001.php",
+      "app/views/admRepo/partir/arriba/004.php",
+      "app/views/admRepo/partir/arriba/005.php",
+      "app/views/admRepo/partir/arriba/006.php",
+      "app/views/admRepo/partir/arriba/007.php",
+      "app/views/admRepo/partir/arriba/008.php",
+      "app/views/admRepo/partir/arriba/009.php"
+    ],
+    "original_sha256": "50493772817125220f3098965a52820975e215e65a542dd2ef671199aa9b7a82"
+  },
+  {
+    "url": "admRepo/partir/check.php",
+    "controller": "app/controllers/admRepo/partir/check.php",
+    "model": "GestionModel",
+    "views": [],
+    "original_sha256": "6f888d3828b986c644f96d8b5b4f65e7dcb28c6642153fb909053ab56a3e3ac2"
+  },
+  {
+    "url": "admRepo/partir/conexion.php",
+    "controller": "app/controllers/admRepo/partir/conexion.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/partir/conexion/001.php"
+    ],
+    "original_sha256": "1a44246af14d5327362708720b094fdb0832431de67aa54fc882c21d3399b821"
+  },
+  {
+    "url": "admRepo/proyec2022Grabar.php",
+    "controller": "app/controllers/admRepo/proyec2022Grabar.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyec2022Grabar/001.php",
+      "app/views/admRepo/proyec2022Grabar/002.php",
+      "app/views/admRepo/proyec2022Grabar/003.php",
+      "app/views/admRepo/proyec2022Grabar/004.php",
+      "app/views/admRepo/proyec2022Grabar/005.php"
+    ],
+    "original_sha256": "e2de4d04054a4862e26307ee84c5e76a20d210c687804b9b7e2f670754af6bff"
+  },
+  {
+    "url": "admRepo/proyec2022Registro.php",
+    "controller": "app/controllers/admRepo/proyec2022Registro.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyec2022Registro/001.php",
+      "app/views/admRepo/proyec2022Registro/002.php",
+      "app/views/admRepo/proyec2022Registro/003.php",
+      "app/views/admRepo/proyec2022Registro/004.php",
+      "app/views/admRepo/proyec2022Registro/005.php",
+      "app/views/admRepo/proyec2022Registro/006.php",
+      "app/views/admRepo/proyec2022Registro/007.php",
+      "app/views/admRepo/proyec2022Registro/008.php",
+      "app/views/admRepo/proyec2022Registro/009.php",
+      "app/views/admRepo/proyec2022Registro/010.php",
+      "app/views/admRepo/proyec2022Registro/011.php",
+      "app/views/admRepo/proyec2022Registro/016.php",
+      "app/views/admRepo/proyec2022Registro/017.php",
+      "app/views/admRepo/proyec2022Registro/024.php",
+      "app/views/admRepo/proyec2022Registro/025.php",
+      "app/views/admRepo/proyec2022Registro/030.php",
+      "app/views/admRepo/proyec2022Registro/031.php",
+      "app/views/admRepo/proyec2022Registro/034.php",
+      "app/views/admRepo/proyec2022Registro/035.php"
+    ],
+    "original_sha256": "0ad1d05f02009b997f17e0c65fe6403c74721d15ec4974648401c1003ed4fe3b"
+  },
+  {
+    "url": "admRepo/proyectoCambiarDefensa.php",
+    "controller": "app/controllers/admRepo/proyectoCambiarDefensa.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoCambiarDefensa/001.php"
+    ],
+    "original_sha256": "9d6ac84b534561763c60933917e6b8569f19c881888648a12cc2cdd34d5909a5"
+  },
+  {
+    "url": "admRepo/proyectoEliminar.php",
+    "controller": "app/controllers/admRepo/proyectoEliminar.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoEliminar/001.php"
+    ],
+    "original_sha256": "6ea650c7801ef0edd0c53d9b56c0b51a8920e74c30bc326cfabc5572557577b8"
+  },
+  {
+    "url": "admRepo/proyectoFiltrar.php",
+    "controller": "app/controllers/admRepo/proyectoFiltrar.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoFiltrar/001.php",
+      "app/views/admRepo/proyectoFiltrar/002.php"
+    ],
+    "original_sha256": "15079be8be515afdc5c67fde440063baffcc93b1ad594c3aae1b3d214c040d26"
+  },
+  {
+    "url": "admRepo/proyectoFormulario.php",
+    "controller": "app/controllers/admRepo/proyectoFormulario.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoFormulario/001.php",
+      "app/views/admRepo/proyectoFormulario/002.php",
+      "app/views/admRepo/proyectoFormulario/003.php",
+      "app/views/admRepo/proyectoFormulario/004.php",
+      "app/views/admRepo/proyectoFormulario/013.php",
+      "app/views/admRepo/proyectoFormulario/018.php",
+      "app/views/admRepo/proyectoFormulario/019.php",
+      "app/views/admRepo/proyectoFormulario/026.php",
+      "app/views/admRepo/proyectoFormulario/027.php",
+      "app/views/admRepo/proyectoFormulario/032.php",
+      "app/views/admRepo/proyectoFormulario/033.php",
+      "app/views/admRepo/proyectoFormulario/038.php",
+      "app/views/admRepo/proyectoFormulario/039.php",
+      "app/views/admRepo/proyectoFormulario/044.php",
+      "app/views/admRepo/proyectoFormulario/045.php",
+      "app/views/admRepo/proyectoFormulario/048.php",
+      "app/views/admRepo/proyectoFormulario/049.php"
+    ],
+    "original_sha256": "3777175fbbbb975a583877d2f17c4967210c9b26ac3cb517fbc65dfbd2ce57d7"
+  },
+  {
+    "url": "admRepo/proyectoGrabar.php",
+    "controller": "app/controllers/admRepo/proyectoGrabar.php",
+    "model": "ProyectoModel",
+    "views": [],
+    "original_sha256": "32be3b50fbdfef7c05b130774cba3a01208ed9c6a3c63376c03d33cb81ffe7d3"
+  },
+  {
+    "url": "admRepo/proyectoInstanciaCambiar.php",
+    "controller": "app/controllers/admRepo/proyectoInstanciaCambiar.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoInstanciaCambiar/001.php",
+      "app/views/admRepo/proyectoInstanciaCambiar/002.php",
+      "app/views/admRepo/proyectoInstanciaCambiar/003.php"
+    ],
+    "original_sha256": "ded13ec5942163160b76e32b6fa0914542af7cc9bc5fe06b20148ee1991b1095"
+  },
+  {
+    "url": "admRepo/proyectoLista.php",
+    "controller": "app/controllers/admRepo/proyectoLista.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoLista/001.php",
+      "app/views/admRepo/proyectoLista/006.php",
+      "app/views/admRepo/proyectoLista/013.php",
+      "app/views/admRepo/proyectoLista/016.php",
+      "app/views/admRepo/proyectoLista/029.php",
+      "app/views/admRepo/proyectoLista/036.php",
+      "app/views/admRepo/proyectoLista/041.php",
+      "app/views/admRepo/proyectoLista/046.php",
+      "app/views/admRepo/proyectoLista/047.php",
+      "app/views/admRepo/proyectoLista/050.php",
+      "app/views/admRepo/proyectoLista/059.php"
+    ],
+    "original_sha256": "25a2b43fc95d4683924781b5d8f94229d8c280679ad48f949b4e03e4f52ba0fd"
+  },
+  {
+    "url": "admRepo/proyectoLista2022.php",
+    "controller": "app/controllers/admRepo/proyectoLista2022.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoLista2022/001.php",
+      "app/views/admRepo/proyectoLista2022/006.php",
+      "app/views/admRepo/proyectoLista2022/017.php",
+      "app/views/admRepo/proyectoLista2022/020.php",
+      "app/views/admRepo/proyectoLista2022/033.php",
+      "app/views/admRepo/proyectoLista2022/036.php",
+      "app/views/admRepo/proyectoLista2022/037.php"
+    ],
+    "original_sha256": "d360b65c9699832138938805f1b80379241f28e78595e396bda50caf0916d1aa"
+  },
+  {
+    "url": "admRepo/proyectoLista2023.php",
+    "controller": "app/controllers/admRepo/proyectoLista2023.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoLista2023/001.php",
+      "app/views/admRepo/proyectoLista2023/006.php",
+      "app/views/admRepo/proyectoLista2023/017.php",
+      "app/views/admRepo/proyectoLista2023/020.php",
+      "app/views/admRepo/proyectoLista2023/033.php",
+      "app/views/admRepo/proyectoLista2023/036.php",
+      "app/views/admRepo/proyectoLista2023/037.php"
+    ],
+    "original_sha256": "0db62ce6c41933b17e6184f827c1bfdd2d2f0e3f443ebe15b81985c55798120f"
+  },
+  {
+    "url": "admRepo/proyectoRepoActivar2023.php",
+    "controller": "app/controllers/admRepo/proyectoRepoActivar2023.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoRepoActivar2023/001.php",
+      "app/views/admRepo/proyectoRepoActivar2023/002.php"
+    ],
+    "original_sha256": "9a34051a4fc45cbcf471609e763b32ac7c3829c224702c24759129ef101e360f"
+  },
+  {
+    "url": "admRepo/proyectoRepoactivar2022.php",
+    "controller": "app/controllers/admRepo/proyectoRepoactivar2022.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoRepoactivar2022/001.php",
+      "app/views/admRepo/proyectoRepoactivar2022/002.php"
+    ],
+    "original_sha256": "7ce12f941e29525bc236864704eb1b6f37b81021557ff7d27a47853d83ef1cf8"
+  },
+  {
+    "url": "admRepo/proyectoRepositorio2023 copy.php",
+    "controller": "app/controllers/admRepo/proyectoRepositorio2023 copy.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoRepositorio2023 copy/001.php"
+    ],
+    "original_sha256": "21d6c36c0c7a2590ee4d8f4abd58da77af419474dc5f62cd1fff82c156f2949d"
+  },
+  {
+    "url": "admRepo/proyectoRepositorio2023.php",
+    "controller": "app/controllers/admRepo/proyectoRepositorio2023.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoRepositorio2023/001.php"
+    ],
+    "original_sha256": "2b009e8472a6ce92699b84a7d535515ac3a584edb9d734f9282e477ca44795aa"
+  },
+  {
+    "url": "admRepo/proyectoeliminarinta.php",
+    "controller": "app/controllers/admRepo/proyectoeliminarinta.php",
+    "model": "ProyectoModel",
+    "views": [
+      "app/views/admRepo/proyectoeliminarinta/001.php"
+    ],
+    "original_sha256": "c45395f0d33f27e8b35677517e66b00b4b35e6fe19e256cc73694a5d2431b30c"
+  },
+  {
+    "url": "admRepo/salir.php",
+    "controller": "app/controllers/admRepo/salir.php",
+    "model": "GestionModel",
+    "views": [
+      "app/views/admRepo/salir/001.php"
+    ],
+    "original_sha256": "f04f79d1391ea6c6d8eae88287ec46fb9b880d6ff9e40728dfa15dd3f7e1cb22"
+  },
+  {
+    "url": "admRepo/usuarioActivar.php",
+    "controller": "app/controllers/admRepo/usuarioActivar.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuarioActivar/001.php",
+      "app/views/admRepo/usuarioActivar/002.php"
+    ],
+    "original_sha256": "8056533db32ed435fbc28e1e2629b39e50c41114ef461358afb913b6be3725f0"
+  },
+  {
+    "url": "admRepo/usuarioEliminar.php",
+    "controller": "app/controllers/admRepo/usuarioEliminar.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuarioEliminar/001.php"
+    ],
+    "original_sha256": "d3d17f315ae459a29c82916c7e0b8d4424581f5c1e9c7f7990e90cc51c9f7cdb"
+  },
+  {
+    "url": "admRepo/usuarioModificar.php",
+    "controller": "app/controllers/admRepo/usuarioModificar.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuarioModificar/001.php",
+      "app/views/admRepo/usuarioModificar/004.php",
+      "app/views/admRepo/usuarioModificar/007.php",
+      "app/views/admRepo/usuarioModificar/008.php",
+      "app/views/admRepo/usuarioModificar/011.php"
+    ],
+    "original_sha256": "95687d646f8edb068b8b8858aaa3cacca0e0c316d763345629015af70259909a"
+  },
+  {
+    "url": "admRepo/usuariocrear.php",
+    "controller": "app/controllers/admRepo/usuariocrear.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuariocrear/001.php",
+      "app/views/admRepo/usuariocrear/002.php",
+      "app/views/admRepo/usuariocrear/007.php"
+    ],
+    "original_sha256": "0f493bdfdaf54e6c4ebbc5b8386bdbccf306e8fce43d1b4006e70f4f10ae223a"
+  },
+  {
+    "url": "admRepo/usuariodesactivar.php",
+    "controller": "app/controllers/admRepo/usuariodesactivar.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuariodesactivar/001.php"
+    ],
+    "original_sha256": "9217ce4eee4dd9e8579671bcbe1e7500d95d19a6b50dfe581b2b7a35bb7909e7"
+  },
+  {
+    "url": "admRepo/usuariograbar.php",
+    "controller": "app/controllers/admRepo/usuariograbar.php",
+    "model": "UsuarioModel",
+    "views": [],
+    "original_sha256": "f34dab85c8c68896db230dd3acac4d44bd0fdfd6077a3285b63668e059c19949"
+  },
+  {
+    "url": "admRepo/usuarioinactivoAdministrativos.php",
+    "controller": "app/controllers/admRepo/usuarioinactivoAdministrativos.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuarioinactivoAdministrativos/001.php",
+      "app/views/admRepo/usuarioinactivoAdministrativos/002.php",
+      "app/views/admRepo/usuarioinactivoAdministrativos/019.php"
+    ],
+    "original_sha256": "4b212df9ea08f38c5a7e2fc8e9c14cf0f54fcf02ec85bc33fa9eee1a185b0353"
+  },
+  {
+    "url": "admRepo/usuarioinactivoEstudiante.php",
+    "controller": "app/controllers/admRepo/usuarioinactivoEstudiante.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuarioinactivoEstudiante/001.php",
+      "app/views/admRepo/usuarioinactivoEstudiante/002.php",
+      "app/views/admRepo/usuarioinactivoEstudiante/019.php"
+    ],
+    "original_sha256": "56e2872baea732b89324c32b2a2149f819f1397cb06726be9fe3eeba0845b838"
+  },
+  {
+    "url": "admRepo/usuarios.php",
+    "controller": "app/controllers/admRepo/usuarios.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuarios/001.php",
+      "app/views/admRepo/usuarios/006.php",
+      "app/views/admRepo/usuarios/031.php",
+      "app/views/admRepo/usuarios/032.php"
+    ],
+    "original_sha256": "8363a7cf7c8b1ab833e1c2417a5d413e0ca3f9029cf277d7e2eb32a80af0ca41"
+  },
+  {
+    "url": "admRepo/usuariosAdmi.php",
+    "controller": "app/controllers/admRepo/usuariosAdmi.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuariosAdmi/001.php",
+      "app/views/admRepo/usuariosAdmi/002.php",
+      "app/views/admRepo/usuariosAdmi/013.php",
+      "app/views/admRepo/usuariosAdmi/014.php"
+    ],
+    "original_sha256": "71eca5dfeb0ac2c381162c0b0844313e9dab2bddaf1e97f3a8cc49f941ea268f"
+  },
+  {
+    "url": "admRepo/usuariosAdministrativos.php",
+    "controller": "app/controllers/admRepo/usuariosAdministrativos.php",
+    "model": "UsuarioModel",
+    "views": [
+      "app/views/admRepo/usuariosAdministrativos/001.php",
+      "app/views/admRepo/usuariosAdministrativos/002.php",
+      "app/views/admRepo/usuariosAdministrativos/019.php"
+    ],
+    "original_sha256": "165478e198593b434f8cc2c1166299eed71ca1afb67d8e54b22f5dafb41c10c6"
+  },
+  {
+    "url": "carreras.php",
+    "controller": "app/controllers/carreras.php",
+    "model": "CarreraModel",
+    "views": [
+      "app/views/carreras/001.php",
+      "app/views/carreras/002.php"
+    ],
+    "original_sha256": "02c22fbd8bc1b3ec3c68ebee66bd4b21db76342484df00d6a75d9f987a8bbbec"
+  },
+  {
+    "url": "category.php",
+    "controller": "app/controllers/category.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/category/001.php"
+    ],
+    "original_sha256": "8518b44b5b59c52f475cc043d972b921ad1533845ec4f2d155496969639a30c3"
+  },
+  {
+    "url": "index.php",
+    "controller": "app/controllers/index.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/index/001.php",
+      "app/views/index/002.php",
+      "app/views/index/007.php",
+      "app/views/index/008.php",
+      "app/views/index/013.php",
+      "app/views/index/014.php",
+      "app/views/index/015.php",
+      "app/views/index/016.php",
+      "app/views/index/017.php",
+      "app/views/index/025.php",
+      "app/views/index/029.php",
+      "app/views/index/031.php",
+      "app/views/index/032.php",
+      "app/views/index/033.php",
+      "app/views/index/036.php",
+      "app/views/index/038.php",
+      "app/views/index/042.php",
+      "app/views/index/043.php",
+      "app/views/index/044.php",
+      "app/views/index/045.php",
+      "app/views/index/046.php",
+      "app/views/index/047.php",
+      "app/views/index/048.php",
+      "app/views/index/049.php",
+      "app/views/index/050.php",
+      "app/views/index/058.php",
+      "app/views/index/062.php",
+      "app/views/index/064.php",
+      "app/views/index/065.php",
+      "app/views/index/066.php",
+      "app/views/index/069.php",
+      "app/views/index/071.php",
+      "app/views/index/075.php",
+      "app/views/index/076.php",
+      "app/views/index/077.php",
+      "app/views/index/078.php",
+      "app/views/index/079.php",
+      "app/views/index/080.php"
+    ],
+    "original_sha256": "44ec4125d0e63c63a6c6af0be0d5b9c49ae715a5a5989df5e08a67f6d9b367d2"
+  },
+  {
+    "url": "listaArchivos.php",
+    "controller": "app/controllers/listaArchivos.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/listaArchivos/001.php",
+      "app/views/listaArchivos/002.php",
+      "app/views/listaArchivos/022.php",
+      "app/views/listaArchivos/025.php",
+      "app/views/listaArchivos/028.php",
+      "app/views/listaArchivos/036.php",
+      "app/views/listaArchivos/037.php",
+      "app/views/listaArchivos/038.php",
+      "app/views/listaArchivos/058.php",
+      "app/views/listaArchivos/061.php",
+      "app/views/listaArchivos/064.php",
+      "app/views/listaArchivos/072.php",
+      "app/views/listaArchivos/073.php",
+      "app/views/listaArchivos/074.php",
+      "app/views/listaArchivos/094.php",
+      "app/views/listaArchivos/097.php",
+      "app/views/listaArchivos/100.php",
+      "app/views/listaArchivos/108.php",
+      "app/views/listaArchivos/109.php",
+      "app/views/listaArchivos/110.php",
+      "app/views/listaArchivos/130.php",
+      "app/views/listaArchivos/133.php",
+      "app/views/listaArchivos/136.php",
+      "app/views/listaArchivos/144.php",
+      "app/views/listaArchivos/145.php",
+      "app/views/listaArchivos/146.php",
+      "app/views/listaArchivos/166.php",
+      "app/views/listaArchivos/169.php",
+      "app/views/listaArchivos/172.php",
+      "app/views/listaArchivos/180.php",
+      "app/views/listaArchivos/181.php",
+      "app/views/listaArchivos/182.php",
+      "app/views/listaArchivos/202.php",
+      "app/views/listaArchivos/205.php",
+      "app/views/listaArchivos/208.php",
+      "app/views/listaArchivos/216.php",
+      "app/views/listaArchivos/217.php",
+      "app/views/listaArchivos/218.php",
+      "app/views/listaArchivos/238.php",
+      "app/views/listaArchivos/241.php",
+      "app/views/listaArchivos/244.php",
+      "app/views/listaArchivos/252.php",
+      "app/views/listaArchivos/253.php",
+      "app/views/listaArchivos/254.php",
+      "app/views/listaArchivos/274.php",
+      "app/views/listaArchivos/277.php",
+      "app/views/listaArchivos/280.php",
+      "app/views/listaArchivos/288.php",
+      "app/views/listaArchivos/289.php"
+    ],
+    "original_sha256": "6c7ac7da8e59ccaf73c633e108a09deef0ca159eb67b32ccab6f7207048f6e1d"
+  },
+  {
+    "url": "partir/abajo.php",
+    "controller": "app/controllers/partir/abajo.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/partir/abajo/001.php"
+    ],
+    "original_sha256": "efecb677a8c9b5459a2311a7a42fe072a5c60dee0e84ff505185d8a3c4345454"
+  },
+  {
+    "url": "partir/arriba.php",
+    "controller": "app/controllers/partir/arriba.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/partir/arriba/001.php"
+    ],
+    "original_sha256": "dcdaca6c98af76ddb83af83de05339aea487607be96f9d1c47d33a80b1183158"
+  },
+  {
+    "url": "partir/banner.php",
+    "controller": "app/controllers/partir/banner.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/partir/banner/001.php",
+      "app/views/partir/banner/002.php",
+      "app/views/partir/banner/007.php",
+      "app/views/partir/banner/008.php",
+      "app/views/partir/banner/013.php"
+    ],
+    "original_sha256": "78f0d27d619d97defd31da8f041a37ad03d6b58b481440ed415ff22d2029e186"
+  },
+  {
+    "url": "partir/check.php",
+    "controller": "app/controllers/partir/check.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/partir/check/001.php"
+    ],
+    "original_sha256": "58683bd10c606de227df80bdfaa67074cf3dfac8ea1f2475fcbe16fb8c0eb223"
+  },
+  {
+    "url": "partir/conexion.php",
+    "controller": "app/controllers/partir/conexion.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/partir/conexion/001.php"
+    ],
+    "original_sha256": "1a44246af14d5327362708720b094fdb0832431de67aa54fc882c21d3399b821"
+  },
+  {
+    "url": "registroEstudiantes copy.php",
+    "controller": "app/controllers/registroEstudiantes copy.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/registroEstudiantes copy/001.php",
+      "app/views/registroEstudiantes copy/002.php",
+      "app/views/registroEstudiantes copy/003.php",
+      "app/views/registroEstudiantes copy/004.php",
+      "app/views/registroEstudiantes copy/005.php",
+      "app/views/registroEstudiantes copy/006.php",
+      "app/views/registroEstudiantes copy/007.php",
+      "app/views/registroEstudiantes copy/008.php",
+      "app/views/registroEstudiantes copy/009.php",
+      "app/views/registroEstudiantes copy/014.php",
+      "app/views/registroEstudiantes copy/015.php",
+      "app/views/registroEstudiantes copy/020.php",
+      "app/views/registroEstudiantes copy/021.php",
+      "app/views/registroEstudiantes copy/026.php",
+      "app/views/registroEstudiantes copy/027.php",
+      "app/views/registroEstudiantes copy/032.php"
+    ],
+    "original_sha256": "c4c426d5b33bec67e4700d369c57fec8ff13514e6186c4eb040906268626101e"
+  },
+  {
+    "url": "registroEstudiantes.php",
+    "controller": "app/controllers/registroEstudiantes.php",
+    "model": "PublicoModel",
+    "views": [
+      "app/views/registroEstudiantes/001.php",
+      "app/views/registroEstudiantes/002.php",
+      "app/views/registroEstudiantes/003.php",
+      "app/views/registroEstudiantes/004.php",
+      "app/views/registroEstudiantes/005.php",
+      "app/views/registroEstudiantes/006.php",
+      "app/views/registroEstudiantes/007.php",
+      "app/views/registroEstudiantes/008.php",
+      "app/views/registroEstudiantes/009.php",
+      "app/views/registroEstudiantes/010.php",
+      "app/views/registroEstudiantes/015.php",
+      "app/views/registroEstudiantes/016.php"
+    ],
+    "original_sha256": "b37f2e4b5ff1eda85879412050bfc65b06231390313b96e890c1d44839a36ea9"
+  }
+]

@@ -1,0 +1,386 @@
+{
+  "tests": 64,
+  "passed": 64,
+  "results": [
+    {
+      "test": "Health JSON",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "CSRF público",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Recurso privado sin sesión",
+      "status": 401,
+      "expected": 401,
+      "passed": true
+    },
+    {
+      "test": "Creación anónima bloqueada",
+      "status": 401,
+      "expected": 401,
+      "passed": true
+    },
+    {
+      "test": "Login sin CSRF bloqueado",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "test": "Obtener cookie y CSRF",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Credenciales inválidas",
+      "status": 401,
+      "expected": 401,
+      "passed": true
+    },
+    {
+      "test": "Login válido",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Token Bearer sin cookie",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Token alterado bloqueado",
+      "status": 401,
+      "expected": 401,
+      "passed": true
+    },
+    {
+      "test": "Crear carrera",
+      "status": 201,
+      "expected": 201,
+      "passed": true
+    },
+    {
+      "test": "Leer carrera",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Modificar sin CSRF bloqueado",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "test": "PATCH carrera",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "PUT carrera",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Campo desconocido rechazado",
+      "status": 422,
+      "expected": 422,
+      "passed": true
+    },
+    {
+      "test": "JSON inválido",
+      "status": 400,
+      "expected": 400,
+      "passed": true
+    },
+    {
+      "test": "ID inválido",
+      "status": 422,
+      "expected": 422,
+      "passed": true
+    },
+    {
+      "test": "Paginación inválida",
+      "passed": true
+    },
+    {
+      "test": "Búsqueda con SQL tratada como dato",
+      "passed": true
+    },
+    {
+      "test": "GET carreras",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET modalidades",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET cargos",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET tutores",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET estudiantes",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET usuarios",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET administrativos",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET proyectos",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET repositorio",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET repositorio-2022",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET archivos",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET etapas",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET tipos-postulante",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET tipos-proyecto",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "GET historial",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Crear tutor",
+      "status": 201,
+      "expected": 201,
+      "passed": true
+    },
+    {
+      "test": "Crear estudiante de prueba",
+      "status": 201,
+      "expected": 201,
+      "passed": true
+    },
+    {
+      "test": "Crear usuario sin exponer hash",
+      "status": 201,
+      "expected": 201,
+      "passed": true
+    },
+    {
+      "test": "CSRF estudiante",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Login estudiante",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Estudiante no administra carreras",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "test": "Estudiante no cambia su cargo",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "test": "Estudiante consulta su ficha",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Ficha ajena protegida",
+      "status": 404,
+      "expected": 404,
+      "passed": true
+    },
+    {
+      "test": "Carga PDF",
+      "status": 201,
+      "expected": 201,
+      "passed": true
+    },
+    {
+      "test": "Descarga PDF propio",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Falso PDF rechazado",
+      "status": 422,
+      "expected": 422,
+      "passed": true
+    },
+    {
+      "test": "Estudiante crea proyecto propio",
+      "status": 201,
+      "expected": 201,
+      "passed": true
+    },
+    {
+      "test": "Publicación sin permiso bloqueada",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "test": "Cambio de etapa",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Publicación transaccional",
+      "status": 201,
+      "expected": 201,
+      "passed": true
+    },
+    {
+      "test": "Segunda publicación bloqueada",
+      "status": 404,
+      "expected": 404,
+      "passed": true
+    },
+    {
+      "test": "PDF publicado",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Desactivar publicación",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Publicación oculta al público",
+      "status": 404,
+      "expected": 404,
+      "passed": true
+    },
+    {
+      "test": "PDF desactivado por API bloqueado",
+      "status": 404,
+      "expected": 404,
+      "passed": true
+    },
+    {
+      "test": "Conflicto de relación",
+      "status": 409,
+      "expected": 409,
+      "passed": true
+    },
+    {
+      "test": "Crear carrera para borrar",
+      "status": 201,
+      "expected": 201,
+      "passed": true
+    },
+    {
+      "test": "DELETE carrera",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Borrado confirmado",
+      "status": 404,
+      "expected": 404,
+      "passed": true
+    },
+    {
+      "test": "Desactivar estudiante y cuenta",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Sesión de estudiante desactivado bloqueada",
+      "status": 401,
+      "expected": 401,
+      "passed": true
+    },
+    {
+      "test": "Cerrar sesión",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "test": "Sesión cerrada confirmada",
+      "status": 401,
+      "expected": 401,
+      "passed": true
+    }
+  ]
+}

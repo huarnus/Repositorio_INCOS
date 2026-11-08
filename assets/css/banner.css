@@ -1,0 +1,13 @@
+
+    /* Estilos para el contenedor del banner */
+    .banner-container {
+      text-align: center; /* Centra la imagen horizontalmente */
+      margin-top: 20px; /* Agrega margen superior para separarlo del contenido anterior */
+    }
+
+    /* Estilos para la imagen del banner */
+    .banner-image {
+      width: 100%; /* Ajusta el ancho al 100% */
+      height: auto; /* Mantiene la relación de aspecto original */
+    }
+  

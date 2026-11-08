@@ -1,0 +1,1 @@
+<?php echo '<li><strong>Tutor:</strong> ' . $row['tutor'] . '</li>'; ?><?php echo '<li><strong>Carrera:</strong> ' . $row['nombre_carrera'] . '</li>'; ?>

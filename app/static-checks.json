@@ -1,0 +1,26 @@
+{
+  "entrypoints": 100,
+  "models": 11,
+  "views": 612,
+  "corrected_includes": [
+    [
+      "admRepo/archivosGrabar4.php",
+      "reporte/fpdi.php"
+    ],
+    [
+      "admRepo/eliminarEmpleado.php",
+      "conexion.php"
+    ],
+    [
+      "admRepo/modalidadEliminar.php",
+      "partir/connect.php"
+    ],
+    [
+      "admRepo/modificarEmpleado.php",
+      "conexion.php"
+    ]
+  ],
+  "syntax_checked_files": 825,
+  "syntax_errors": 0,
+  "render_comparisons_passed": 13
+}

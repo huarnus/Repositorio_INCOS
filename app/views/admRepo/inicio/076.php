@@ -1,0 +1,1 @@
+<?php echo "<h2>Proyectos de ArchivosInsta:</h2>"; ?><?php echo "<form>"; ?><?php echo "<div class='proyecto-container'>"; ?><?php echo "<h2>Proyecto en ArchivosInsta</h2>"; ?>

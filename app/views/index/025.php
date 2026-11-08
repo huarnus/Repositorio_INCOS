@@ -1,0 +1,1 @@
+<?php echo '<div class="col-md-9">'; ?><?php echo '<div class="card-body">'; ?><?php echo '<ul class="list-unstyled">'; ?><?php echo '<li><strong>Titulo:</strong> ' . $row['titulo'] . '</li>'; ?>

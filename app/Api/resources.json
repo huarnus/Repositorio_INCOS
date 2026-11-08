@@ -1,0 +1,624 @@
+{
+  "carreras": {
+    "table": "carrrera",
+    "pk": "id",
+    "columns": [
+      "id",
+      "nombre_carrera"
+    ],
+    "fields": {
+      "nombre_carrera": {
+        "type": "string",
+        "required": true,
+        "max": 45,
+        "nullable": false
+      }
+    },
+    "public": true,
+    "readonly": false
+  },
+  "modalidades": {
+    "table": "modalidad",
+    "pk": "id",
+    "columns": [
+      "id",
+      "nombreM"
+    ],
+    "fields": {
+      "nombreM": {
+        "type": "string",
+        "required": true,
+        "max": 45,
+        "nullable": false
+      }
+    },
+    "public": true,
+    "readonly": false
+  },
+  "cargos": {
+    "table": "cargo",
+    "pk": "id",
+    "columns": [
+      "id",
+      "nombre",
+      "estado"
+    ],
+    "fields": {
+      "nombre": {
+        "type": "string",
+        "required": true,
+        "max": 100,
+        "nullable": false
+      },
+      "estado": {
+        "type": "integer",
+        "required": true,
+        "max": 65535,
+        "nullable": false
+      }
+    },
+    "public": false,
+    "readonly": false
+  },
+  "tutores": {
+    "table": "licenciados",
+    "pk": "id",
+    "columns": [
+      "id",
+      "nombre_lice",
+      "carrrera_id"
+    ],
+    "fields": {
+      "nombre_lice": {
+        "type": "string",
+        "required": false,
+        "max": 255,
+        "nullable": true
+      },
+      "carrrera_id": {
+        "type": "integer",
+        "required": true,
+        "max": 65535,
+        "nullable": false
+      }
+    },
+    "public": true,
+    "readonly": false
+  },
+  "estudiantes": {
+    "table": "estudiantes",
+    "pk": "id",
+    "columns": [
+      "id",
+      "nombreCompleto",
+      "carnet",
+      "extencion",
+      "celular",
+      "año_egreso",
+      "correo",
+      "estado",
+      "tipo_postulante_id",
+      "cargo_id"
+    ],
+    "fields": {
+      "nombreCompleto": {
+        "type": "string",
+        "required": false,
+        "max": 255,
+        "nullable": true
+      },
+      "carnet": {
+        "type": "string",
+        "required": true,
+        "max": 100,
+        "nullable": false
+      },
+      "extencion": {
+        "type": "string",
+        "required": true,
+        "max": 100,
+        "nullable": false
+      },
+      "celular": {
+        "type": "string",
+        "required": false,
+        "max": 45,
+        "nullable": true
+      },
+      "año_egreso": {
+        "type": "string",
+        "required": false,
+        "max": 45,
+        "nullable": true
+      },
+      "correo": {
+        "type": "string",
+        "required": false,
+        "max": 45,
+        "nullable": true
+      },
+      "estado": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "tipo_postulante_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "cargo_id": {
+        "type": "integer",
+        "required": true,
+        "max": 65535,
+        "nullable": false
+      }
+    },
+    "public": false,
+    "readonly": false
+  },
+  "usuarios": {
+    "table": "usuario",
+    "pk": "id",
+    "columns": [
+      "id",
+      "nombre",
+      "usuario",
+      "estudiantes_id",
+      "cargo_id",
+      "estado"
+    ],
+    "fields": {
+      "nombre": {
+        "type": "string",
+        "required": false,
+        "max": 254,
+        "nullable": true
+      },
+      "usuario": {
+        "type": "string",
+        "required": true,
+        "max": 100,
+        "nullable": false
+      },
+      "contraseña": {
+        "type": "string",
+        "required": true,
+        "max": 100,
+        "nullable": false
+      },
+      "estudiantes_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "cargo_id": {
+        "type": "integer",
+        "required": true,
+        "max": 65535,
+        "nullable": false
+      },
+      "estado": {
+        "type": "integer",
+        "required": true,
+        "max": 65535,
+        "nullable": false
+      }
+    },
+    "public": false,
+    "readonly": false
+  },
+  "administrativos": {
+    "table": "administrativos",
+    "pk": "id",
+    "columns": [
+      "id",
+      "nombreCompleto",
+      "carnet",
+      "correo",
+      "estado",
+      "cargo_id"
+    ],
+    "fields": {
+      "nombreCompleto": {
+        "type": "string",
+        "required": true,
+        "max": 100,
+        "nullable": false
+      },
+      "carnet": {
+        "type": "string",
+        "required": true,
+        "max": 100,
+        "nullable": false
+      },
+      "correo": {
+        "type": "string",
+        "required": true,
+        "max": 100,
+        "nullable": false
+      },
+      "estado": {
+        "type": "string",
+        "required": true,
+        "max": 45,
+        "nullable": false
+      },
+      "cargo_id": {
+        "type": "integer",
+        "required": true,
+        "max": 65535,
+        "nullable": false
+      }
+    },
+    "public": false,
+    "readonly": false
+  },
+  "proyectos": {
+    "table": "proyectos_defensa",
+    "pk": "id_pro",
+    "columns": [
+      "id_pro",
+      "titulo",
+      "estudiantes_id",
+      "descripcion",
+      "tutor",
+      "gestion",
+      "fecha_entrega",
+      "estado",
+      "modalidad_id",
+      "carrrera_id",
+      "proyectoes_id",
+      "archivosinsta_id",
+      "etapas_instancia_id",
+      "licenciados_id"
+    ],
+    "fields": {
+      "titulo": {
+        "type": "string",
+        "required": false,
+        "max": 254,
+        "nullable": true
+      },
+      "estudiantes_id": {
+        "type": "integer",
+        "required": true,
+        "max": 65535,
+        "nullable": false
+      },
+      "descripcion": {
+        "type": "string",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "tutor": {
+        "type": "string",
+        "required": false,
+        "max": 100,
+        "nullable": true
+      },
+      "gestion": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "fecha_entrega": {
+        "type": "date",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "estado": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "modalidad_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "carrrera_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "proyectoes_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "archivosinsta_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "etapas_instancia_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "licenciados_id": {
+        "type": "integer",
+        "required": true,
+        "max": 65535,
+        "nullable": false
+      }
+    },
+    "public": false,
+    "readonly": false
+  },
+  "repositorio": {
+    "table": "proyectos_repositorio",
+    "pk": "id_repo",
+    "columns": [
+      "id_repo",
+      "titulo",
+      "descripcion",
+      "autor",
+      "tutor",
+      "gestion",
+      "fecha_publicacion",
+      "estado",
+      "ruta",
+      "tipo_documento",
+      "modalidad_id",
+      "carrrera_id"
+    ],
+    "fields": {
+      "titulo": {
+        "type": "string",
+        "required": false,
+        "max": 254,
+        "nullable": true
+      },
+      "descripcion": {
+        "type": "string",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "autor": {
+        "type": "string",
+        "required": false,
+        "max": 100,
+        "nullable": true
+      },
+      "tutor": {
+        "type": "string",
+        "required": false,
+        "max": 100,
+        "nullable": true
+      },
+      "gestion": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "fecha_publicacion": {
+        "type": "date",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "estado": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "modalidad_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "carrrera_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      }
+    },
+    "public": true,
+    "readonly": false
+  },
+  "repositorio-2022": {
+    "table": "pro_repositorio22",
+    "pk": "id",
+    "columns": [
+      "id",
+      "titulo",
+      "descripcion",
+      "autor",
+      "tutor",
+      "gestion",
+      "fecha_publicacion",
+      "estado",
+      "ruta",
+      "tipo_documento",
+      "modalidad_id",
+      "carrrera_id",
+      "licenciados_id"
+    ],
+    "fields": {
+      "titulo": {
+        "type": "string",
+        "required": false,
+        "max": 254,
+        "nullable": true
+      },
+      "descripcion": {
+        "type": "string",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "autor": {
+        "type": "string",
+        "required": false,
+        "max": 100,
+        "nullable": true
+      },
+      "tutor": {
+        "type": "string",
+        "required": false,
+        "max": 100,
+        "nullable": true
+      },
+      "gestion": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "fecha_publicacion": {
+        "type": "date",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "estado": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "modalidad_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "carrrera_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      },
+      "licenciados_id": {
+        "type": "integer",
+        "required": false,
+        "max": 65535,
+        "nullable": true
+      }
+    },
+    "public": true,
+    "readonly": false
+  },
+  "archivos": {
+    "table": "archivosinsta",
+    "pk": "id",
+    "columns": [
+      "id",
+      "titulo",
+      "ruta",
+      "tipo_documento",
+      "estudiante"
+    ],
+    "fields": {
+      "titulo": {
+        "type": "string",
+        "required": true,
+        "max": 255,
+        "nullable": false
+      },
+      "estudiante": {
+        "type": "string",
+        "required": true,
+        "max": 255,
+        "nullable": false
+      }
+    },
+    "public": false,
+    "readonly": false
+  },
+  "etapas": {
+    "table": "etapas_instancia",
+    "pk": "id",
+    "columns": [
+      "id",
+      "instancia"
+    ],
+    "fields": {
+      "instancia": {
+        "type": "string",
+        "required": false,
+        "max": 45,
+        "nullable": true
+      }
+    },
+    "public": true,
+    "readonly": false
+  },
+  "tipos-postulante": {
+    "table": "tipo_postulante",
+    "pk": "id",
+    "columns": [
+      "id",
+      "nombre"
+    ],
+    "fields": {
+      "nombre": {
+        "type": "string",
+        "required": false,
+        "max": 45,
+        "nullable": true
+      }
+    },
+    "public": true,
+    "readonly": false
+  },
+  "tipos-proyecto": {
+    "table": "tipo_proyecto",
+    "pk": "id",
+    "columns": [
+      "id",
+      "proyectoEs"
+    ],
+    "fields": {
+      "proyectoEs": {
+        "type": "string",
+        "required": false,
+        "max": 45,
+        "nullable": true
+      }
+    },
+    "public": true,
+    "readonly": false
+  },
+  "historial": {
+    "table": "historial_proyectos",
+    "pk": "id_historial",
+    "columns": [
+      "id_historial",
+      "titulo",
+      "descripcion",
+      "tutor",
+      "gestion",
+      "fecha_entrega",
+      "estado",
+      "estudiante_nombre",
+      "modalidad",
+      "carrera",
+      "tipo_proyecto",
+      "etapas_instancia",
+      "fecha_actualizacion"
+    ],
+    "fields": {},
+    "public": false,
+    "readonly": true
+  }
+}

@@ -1,0 +1,1 @@
+<?php echo '<li><strong>Modalidad:</strong> ' . $row['nombre_modalidad'] . '</li>'; ?><?php echo '<li><strong>Gestión:</strong> ' . $row['gestion'] . '</li>'; ?><?php echo '</ul>'; ?><?php echo '</div>'; ?>

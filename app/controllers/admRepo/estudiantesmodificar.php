@@ -1,0 +1,15 @@
+<?php
+/* Controlador compatible con la URL original: admRepo/estudiantesmodificar.php */
+ 
+include(MVC_ROOT . '/admRepo/partir/check.php');
+include(MVC_ROOT . '/admRepo/partir/arriba.php');
+include(MVC_ROOT . '/admRepo/partir/conexion.php');
+$id=$_GET['id'];
+$consulta = \Incos\Models\EstudianteModel::statement013(get_defined_vars());
+$resultado = \Incos\Models\DatabaseModel::query($con,$consulta);
+$dato = \Incos\Models\DatabaseModel::fetch_array($resultado);
+
+
+require MVC_ROOT . '/app/views/admRepo/estudiantesmodificar/001.php';
+include(MVC_ROOT . '/admRepo/partir/abajo.php');
+    
